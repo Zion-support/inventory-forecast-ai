@@ -1,6 +1,6 @@
 # Inventory Forecast AI — Network Links
 
-Demand-driven reorder points, safety stock and stockout prevention.
+Demand forecasts and reorder planning for every SKU.
 
 ## Live
 - App: https://ziontechgroup.com/inventory-forecast-ai/
