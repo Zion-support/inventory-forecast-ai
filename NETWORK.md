@@ -1,6 +1,6 @@
 # Inventory Forecast AI — Network Links
 
-Demand forecasts and reorder planning for every SKU.
+Demand forecasts and reorder recommendations for every SKU.
 
 ## Live
 - App: https://ziontechgroup.com/inventory-forecast-ai/
